@@ -281,6 +281,7 @@ Climb and enter Gerudo Town. Buy 30 Shock Arrows from the vendor (420 rupees).
 Use your bow to light up one of the cooking pots.
 
 Use 4 Bananas to cook a Level 3 Attack meal at least four times (so you will end up using 16 bananas).
+> DLC: Also cook 1 Hightail Lizard, 3 Hot-Footed Frog, 1 Ancient Core to make a **Level 3 Hasty Elixir**.
 
 Go outside Riju's Room and talk to her to watch the Urbosa's Memory cutscene.
 
@@ -320,6 +321,7 @@ Go to the Wetlands Stable.
 > Optional: Talk to Beedle again to receive an **Ancient Arrow** to use during the escort.
 
 Cook 1 Hightail Lizard, 3 Hot-Frooted Frogs and 1 Ancient Core to get a **Lvl. 3 Hasty Elixir**.
+> DLC: Skip this, it was cooked in Gerudo Town.
 
 Get the **Woodcutter Axe**.
 
